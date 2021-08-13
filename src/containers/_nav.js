@@ -27,7 +27,7 @@ const _nav =  [
   {
     _tag: 'CSidebarNavItem',
     name: 'Post New Job',
-    to: '/workcull/postjob',
+    to: '/workcull/postjobs',
     icon: <CIcon name="cil-file" customClasses="c-sidebar-nav-icon"/>,
    
   },
